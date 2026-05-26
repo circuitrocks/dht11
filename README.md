@@ -1,4 +1,4 @@
-# DHT11 — Sample Code
+# DHT11 — temperature & humidity sensor
 
 Sample sketch for the **[DHT11 Temperature & Humidity Sensor Module](https://circuit.rocks/products/temperature-and-humidity-dht11-sensor)**, sold by [Circuitrocks](https://circuit.rocks/).
 
