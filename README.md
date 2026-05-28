@@ -45,7 +45,7 @@ DHT11 reports integer values only. Accuracy is ±5 % RH and ±2 °C — fine for
 
 ## Datasheet
 
-[DHT11 datasheet (Mouser, PDF)](https://www.mouser.com/datasheet/2/758/DHT11-Technical-Data-Sheet-Translated-Version-1143054.pdf)
+[DHT11 datasheet & pinout (docs.circuit.rocks)](https://docs.circuit.rocks/sensors/dht11/)
 
 ## Troubleshooting
 
